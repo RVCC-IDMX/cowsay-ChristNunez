@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "help": "cowsay -h",
+    "cows": "cowsay -l",
+    "cowsay": "cowsay"
   },
   "keywords": [],
   "author": "Christ Nunez <christnunez6@gmail.com> (https://github.com/ChristNunez)",
